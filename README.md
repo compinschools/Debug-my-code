@@ -1,9 +1,8 @@
-# Week 10 Starter Code
+# Debug my code
  
-Starter code for Week 10. A basic react app that uses a static array. the session will move this to get data from an API.
 
-To use this template repository:
-1. Use this template to create your own repository.
-1. Clone the repository to your local machine.
-1. Install dependencies using 'npm install'
-1. Run the app using 'npm start'
+This code is broken! When you change the pagination the next and previous buttons do not work
+1. Fork the repo 
+2. Attempt to debug the code to fix the issue
+3. Ensure that your code works as expected
+4. Post your repo back to me with an explanation of your method of debugging and how you fixed the code
